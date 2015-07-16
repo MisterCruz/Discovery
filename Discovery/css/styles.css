@@ -1,0 +1,25 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  font-size: 14pt;
+  color: white;
+  background-color: #19283E;
+}
+h1{
+  color:#19283E;
+  font-size: 72px;
+  text-align: center;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  
+}
+h2{
+  padding: 10px;
+  text-align: center;
+}
+
+#videoPlayer{
+  text-align:center;
+}
+p{
+  text-align:center;
+}
